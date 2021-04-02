@@ -2,6 +2,7 @@
 
 This Game uses basic HTML, CSS, JS concepts.
 Working of the Game : 
+
 => The user is facilitated with a initial score of 20 with the starting of a New Game.
 
 => User can choose numbers between 1 to 20 for guessing.
